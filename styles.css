@@ -1,0 +1,50 @@
+/* STYLES */
+
+body {
+    background: rgb(255, 218, 219);
+    color: rgb(59, 2, 151);
+    font-family: 'Kalnia', serif;
+}
+
+main{ 
+   max-width: 650 px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+h1 {
+    font-size: 65px;
+    color: rgb(240, 4, 82);
+    letter-spacing: -3 px;
+    font-weight: 500 px;
+    margin-top: 110px;
+}
+h2 {
+color: black;
+ }
+ h3 {
+    color: red;
+    margin-top: auto;
+    background-color: antiquewhite;
+ }
+ h4{ 
+    color: black;
+    background-color: antiquewhite;
+ }
+ p{ 
+    margin: 0 0 2em 0
+;
+ }
+ a {
+    text-decoration: wavy;
+    color: rgb(15, 8, 1);
+    border: 2px solid;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-radius: 4 px;}
+    ul {
+        list-style-type: circle
+       
+    }
+    li{ color: black;
+    border-bottom: 1px solid;}
